@@ -1,0 +1,39 @@
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 350px;
+    /* height: 200px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 20px;
+}
+
+.description {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+
+
+
+
+@media(max-width:540px){
+    .content {
+        grid-template-columns: auto;
+    }
+}
