@@ -1,3 +1,3 @@
 Recipes
 
-recipes is a basic website project build using HTML
+recipes is a basic website project built using HTML
