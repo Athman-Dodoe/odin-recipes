@@ -18,3 +18,7 @@ h1 {
     margin: auto;
 
 }
+
+ul li a {
+    text-decoration: none;
+}
